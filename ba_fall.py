@@ -23,10 +23,10 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # === CONFIGURATION API DATAROBOT (À REMPLACER PAR TES VRAIES CLÉS) ===
-API_KEY = "Njg3ZmJkODExNWRlNDczYzJhNTJjOTJhOjlQUmU4VmdPcXdVYXVTbFI2cDJKakRYczBQa0wxN1BnV3liWjdBT0g1Sm89"
-DATAROBOT_KEY = "8bc175c3-0e27-42f5-b946-b8e5bca413e5"
-DEPLOYMENT_ID = "687fbb3fc59c42c25fcb8a19"
-API_URL = f"https://app.datarobot.com/api/v2/deployments/687fbb3fc59c42c25fcb8a19/predictions"
+API_KEY = "NmE1M2ZiYmNlYTM3ZWVjZjhmMGRhZTljOkc4T3lOdE4wdTQ2WGMvdWtERXZsTDF3aFN1NEc2aUJXTFVSZWQrYldBWmc9"
+DATAROBOT_KEY = "e1ef7e5b-6c60-4c6b-985e-3fa398187676"
+DEPLOYMENT_ID = "6a53f2504c1f40609e98f06a"
+API_URL = f"https://app.datarobot.com/api/v2/deployments/6a53f2504c1f40609e98f06a/predictions"
 
 
 # === CONFIGURATION MAILJET (À REMPLACER PAR TES VRAIES CLÉS) ===
